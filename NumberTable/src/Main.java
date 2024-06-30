@@ -6,7 +6,4 @@ public class Main {
         }
         return table.toString();
     }
-    public static void main(String[] args) {
-        System.out.println(numberTable(11));
-    }
 }
